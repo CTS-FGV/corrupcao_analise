@@ -1,5 +1,5 @@
 # corrupcao_analise
 
-Neste repo estão concentrados os scripts de análise, assim como de sua automação e manutenção nos servidores.
+This repo will contain scripts for data analysis, as well as its automation and server management routines.
 
-No momento, o Jupyter Notebook no repo `corrupcao_captura` concentra a análise exploratória inicial, que se desdobrará em diferetes rotinas.
+As for now, a Jupyter Notebook in the `corrupcao_captura` repo is being used for the initial exploratory analysis of API's and webpages.
