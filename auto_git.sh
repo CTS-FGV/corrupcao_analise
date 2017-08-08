@@ -1,6 +1,6 @@
-#! / Bin / bash
+#!/bin/bash
 
-cd [path_to_folder]
+cd /home/Admin/cts/corrupcao_analise/
 git add.
 git commit -m "auto_commit"
 git push
